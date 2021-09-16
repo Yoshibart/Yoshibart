@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Yoshibart
 - 👀 I’m interested in Cyber Security and Artificial Intelligence
 - C, Python, Java
-- 🌱 I’m currently learning Computer Science 2nd Year at Technological University Dublin
-- 💞️ I’m looking to collaborate on Machine Learning and Neural Networking
+- 🌱 I’m currently learning Computer Science 3rd Year at Technological University Dublin
 - 📫 How to reach me at oworibarnet@gmail.com
 
 <!---
