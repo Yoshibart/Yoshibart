@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Yoshibart
-- 👀 I’m interested in Cyber Security and Artificial Intelligence
-- C, Python, Java
+- 👋 Hi, I’m Barnet Obeka
+- My best languages are C, Python, Java
 - 🌱 I’m currently learning Computer Science 3rd Year at Technological University Dublin(Grangegorman)
 - 📫 How to reach me at oworibarnet@gmail.com
 
